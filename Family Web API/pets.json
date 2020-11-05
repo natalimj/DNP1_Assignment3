@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 1,
+    "Species": "Cat",
+    "Name": "Cutie",
+    "Age": 1
+  },
+  {
+    "Id": 2,
+    "Species": "Bunny",
+    "Name": "Minimi",
+    "Age": 1
+  },
+  {
+    "Id": 3,
+    "Species": "Bunny",
+    "Name": "Minimi",
+    "Age": 1
+  },
+  {
+    "Id": 4,
+    "Species": "Frog",
+    "Name": "Frogy",
+    "Age": 1
+  },
+  {
+    "Id": 5,
+    "Species": "Snake",
+    "Name": "Figa",
+    "Age": 3
+  },
+  {
+    "Id": 6,
+    "Species": "Cat",
+    "Name": "Vega",
+    "Age": 3
+  },
+  {
+    "Id": 7,
+    "Species": "Owl",
+    "Name": "bitty",
+    "Age": 3
+  },
+  {
+    "Id": 8,
+    "Species": "Cat",
+    "Name": "Miria",
+    "Age": 2
+  },
+  {
+    "Id": 9,
+    "Species": "Dog",
+    "Name": "Filip",
+    "Age": 5
+  },
+  {
+    "Id": 10,
+    "Species": "Dog",
+    "Name": "Milka",
+    "Age": 4
+  },
+  {
+    "Id": 11,
+    "Species": "Owl",
+    "Name": "okito",
+    "Age": 2
+  },
+  {
+    "Id": 12,
+    "Species": "Bunny",
+    "Name": "Finik",
+    "Age": 1
+  },
+  {
+    "Id": 13,
+    "Species": "Dog",
+    "Name": "deneme",
+    "Age": 7
+  },
+  {
+    "Id": 14,
+    "Species": "Budgerigar",
+    "Name": "dd",
+    "Age": 2
+  },
+  {
+    "Id": 15,
+    "Species": "Hamster",
+    "Name": "uuu",
+    "Age": 4
+  },
+  {
+    "Id": 16,
+    "Species": "Budgerigar",
+    "Name": "newden",
+    "Age": 2
+  },
+  {
+    "Id": 17,
+    "Species": "Snake",
+    "Name": "zehir",
+    "Age": 2
+  },
+  {
+    "Id": 18,
+    "Species": "Bunny",
+    "Name": "rer",
+    "Age": 4
+  },
+  {
+    "Id": 19,
+    "Species": "Bunny",
+    "Name": "tina",
+    "Age": 1
+  }
+]

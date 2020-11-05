@@ -1,0 +1,52 @@
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache

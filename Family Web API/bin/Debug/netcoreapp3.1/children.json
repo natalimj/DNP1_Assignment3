@@ -1,0 +1,270 @@
+[
+  {
+    "ChildInterests": [],
+    "Pets": [],
+    "Id": 1,
+    "FirstName": "Peter",
+    "LastName": "Smith",
+    "HairColor": "Leverpostej",
+    "EyeColor": "Brown",
+    "Age": 5,
+    "Weight": 26,
+    "Height": 120,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Kite Flying"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Drawing"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Bunny",
+        "Name": "helli",
+        "Age": 1
+      }
+    ],
+    "Id": 2,
+    "FirstName": "Mathilde",
+    "LastName": "Larsen",
+    "HairColor": "Blond",
+    "EyeColor": "Green",
+    "Age": 9,
+    "Weight": 140,
+    "Height": 34,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Kite Flying"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Lego"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Hamster",
+        "Name": "minik",
+        "Age": 1
+      }
+    ],
+    "Id": 3,
+    "FirstName": "Shila",
+    "LastName": "Rose",
+    "HairColor": "Red",
+    "EyeColor": "Green",
+    "Age": 7,
+    "Weight": 22,
+    "Height": 130,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Drawing"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Gymnastics"
+      }
+    ],
+    "Pets": [],
+    "Id": 5,
+    "FirstName": "mira",
+    "LastName": "felix",
+    "HairColor": "Red",
+    "EyeColor": "Grey",
+    "Age": 10,
+    "Weight": 45,
+    "Height": 150,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Soccer"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Roller Blades"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Snake",
+        "Name": "dene",
+        "Age": 1
+      }
+    ],
+    "Id": 6,
+    "FirstName": "deneme",
+    "LastName": "den",
+    "HairColor": "Blond",
+    "EyeColor": "Green",
+    "Age": 7,
+    "Weight": 50,
+    "Height": 160,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Soccer"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Hockey"
+      }
+    ],
+    "Pets": [],
+    "Id": 7,
+    "FirstName": "cici",
+    "LastName": "den",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 10,
+    "Weight": 41,
+    "Height": 150,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 0,
+        "InterestId": "Hockey"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Ballet"
+      },
+      {
+        "ChildId": 0,
+        "InterestId": "Kite Flying"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Cat",
+        "Name": "mia",
+        "Age": 2
+      }
+    ],
+    "Id": 8,
+    "FirstName": "Lila",
+    "LastName": "Derse",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 7,
+    "Weight": 25,
+    "Height": 125,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 9,
+        "InterestId": "Gymnastics"
+      },
+      {
+        "ChildId": 9,
+        "InterestId": "Frozen"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Cat",
+        "Name": "bila",
+        "Age": 2
+      }
+    ],
+    "Id": 9,
+    "FirstName": "flora",
+    "LastName": "yenikiz",
+    "HairColor": "Red",
+    "EyeColor": "Green",
+    "Age": 7,
+    "Weight": 22,
+    "Height": 125,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 10,
+        "InterestId": "Soccer"
+      },
+      {
+        "ChildId": 10,
+        "InterestId": "Drawing"
+      },
+      {
+        "ChildId": 10,
+        "InterestId": "Roller Blades"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 0,
+        "Species": "Dog",
+        "Name": "tintin",
+        "Age": 3
+      }
+    ],
+    "Id": 10,
+    "FirstName": "rudi",
+    "LastName": "finat",
+    "HairColor": "Blond",
+    "EyeColor": "Green",
+    "Age": 9,
+    "Weight": 45,
+    "Height": 150,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 11,
+        "InterestId": "Kite Flying"
+      },
+      {
+        "ChildId": 11,
+        "InterestId": "Ballet"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 19,
+        "Species": "Bunny",
+        "Name": "tina",
+        "Age": 1
+      }
+    ],
+    "Id": 11,
+    "FirstName": "mira",
+    "LastName": "finata",
+    "HairColor": "Leverpostej",
+    "EyeColor": "Blue",
+    "Age": 8,
+    "Weight": 25,
+    "Height": 130,
+    "Sex": "F"
+  }
+]
