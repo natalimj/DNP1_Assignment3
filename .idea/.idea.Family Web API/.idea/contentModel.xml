@@ -18,7 +18,6 @@
           <e p="FamiliesController.cs" t="Include" />
           <e p="PetsController.cs" t="Include" />
           <e p="UsersController.cs" t="Include" />
-          <e p="WeatherForecastController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
           <e p="FamilyService.cs" t="Include" />
@@ -54,7 +53,6 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="users.json" t="Include" />
-        <e p="WeatherForecast.cs" t="Include" />
       </e>
       <e p="Family Web API.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
